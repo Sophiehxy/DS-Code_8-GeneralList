@@ -58,7 +58,6 @@ public:
 	{
 		_Destroy(_head);
 	}
-.
 public:
 	size_t Size()//计算广义表的总结点数
 	{
